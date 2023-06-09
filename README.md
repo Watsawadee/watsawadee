@@ -1,7 +1,8 @@
 # About Me :
-A second-year student at KMUTT
-------------------------------
-![My photo](https://avatars.githubusercontent.com/u/109060632?s=400&u=ea83bcfef7c52cdb6aca4035daabd8768dbd6782&v=4)
+### A second-year student at KMUTT
+
+<!-- ------------------------------
+![My photo](https://avatars.githubusercontent.com/u/109060632?s=400&u=ea83bcfef7c52cdb6aca4035daabd8768dbd6782&v=4) -->
 
 ## Hi, My name is Watsawadee Saeyong <br>
 🌍  I'm based in Bangkok <br>
