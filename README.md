@@ -6,7 +6,7 @@ Passionate about coding and problem-solving, I’m seeking an internship opportu
 
 ## Hi, My name is Watsawadee Saeyong <br>
 🌍  I'm based in Bangkok <br>
-🚀  I'm currently working on my project
+🚀  I'm currently working on my project <br>
 🌱  I'm currently diving into Flutter to build sleek, cross-platform mobile apps.<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
