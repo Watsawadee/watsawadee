@@ -1,12 +1,12 @@
 # About Me :
 ### A second-year student at KMUTT
-Passionate about coding and problem-solving, I’m seeking an internship opportunity. I believe an internship is a perfect canvas for developing my skills, and I’m particularly interested in Web development and Artificial Intelligence.
+Passionate about coding and problem-solving, I’m seeking an internship opportunity. <br> I believe an internship is a perfect canvas for developing my skills, and I’m particularly interested in Web development and Artificial Intelligence.
 <!-- ------------------------------
 ![My photo](https://avatars.githubusercontent.com/u/109060632?s=400&u=ea83bcfef7c52cdb6aca4035daabd8768dbd6782&v=4) -->
 
 ## Hi, My name is Watsawadee Saeyong <br>
 🌍  I'm based in Bangkok <br>
-🚀  I'm currently working on [RecipeApp](http://https://github.com/Watsawadee/CSC105_MiniProject)<br>
+🚀  I'm currently studying on Flutter<br>
 🌱 I’m currently learning React.js, a powerful JavaScript framework for building user interfaces.<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
